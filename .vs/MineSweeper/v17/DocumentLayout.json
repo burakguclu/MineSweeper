@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MSTextController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\MSTextController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MSBoardTextView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\MSBoardTextView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MinesweeperBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\MinesweeperBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3BFFA78-AAEA-4DB7-99E1-3A6F56A0AEDD}|MineSweeper\\MineSweeper.vcxproj|solutionrelative:MineSweeper\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTextController.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MSTextController.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\MSTextController.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MSTextController.cpp",
+              "RelativeToolTip": "MineSweeper\\MSTextController.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T18:36:49.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSBoardTextView.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MSBoardTextView.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\MSBoardTextView.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MSBoardTextView.cpp",
+              "RelativeToolTip": "MineSweeper\\MSBoardTextView.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T18:36:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinesweeperBoard.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MinesweeperBoard.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\MinesweeperBoard.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\MinesweeperBoard.cpp",
+              "RelativeToolTip": "MineSweeper\\MinesweeperBoard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T18:36:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\Main.cpp",
+              "RelativeDocumentMoniker": "MineSweeper\\Main.cpp",
+              "ToolTip": "C:\\Users\\Burak\\source\\repos\\MineSweeper\\MineSweeper\\Main.cpp",
+              "RelativeToolTip": "MineSweeper\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T12:03:19.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
